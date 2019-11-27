@@ -1,5 +1,5 @@
 # ID2RCV
-IoT based Drowsiness and Distraction Detection using Computer Vision Approach
+IoT based Drowsiness and Distraction Detection using Computer Vision Approach.
 detect_drowsiness.py contains the main program for drowsiness and distraction detection alongwith cloud integration (Thingsoard)
 Shape_predictor_68_face_landmarks.dat file contains the 68 facial landmarks required to detect the facial landmarks.
 detect_drowsinesCSV.py is modified version of file that stores the realtime data in the form of csv.
@@ -8,15 +8,15 @@ Subject2.csv file contains the realtime data of driver which can be used in deci
 
 
 # Major Program Dependencies:
-OpenCV 3
-Python 3
-Numpy
-imutils
-Dlib
+OpenCV 3,
+Python 3,
+Numpy,
+imutils,
+Dlib. 
 
-To integrate application with coud, following dependencies should also be met
-Thingsboard 2.0
-Casendra Database
-Java8(OpenJDK)
-MQTT
+# To integrate application with coud, following dependencies should also be met
+Thingsboard 2.0,
+Casendra Database,
+Java8(OpenJDK),
+MQTT,
 
