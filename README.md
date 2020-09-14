@@ -1,6 +1,7 @@
 # ID2RCV
 IoT based Drowsiness and Distraction Detection using Computer Vision Approach.
-detect_drowsiness.py contains the main program for drowsiness and distraction detection alongwith cloud integration (Thingsoard)
+detect_drowsiness.py contains the main program for drowsiness and distraction detection
+tb-detect-drowsiness.py contains the main program alongwith integration of ThingsBoard CLoud Platform
 Shape_predictor_68_face_landmarks.dat file contains the 68 facial landmarks required to detect the facial landmarks.
 detect_drowsinesCSV.py is modified version of file that stores the realtime data in the form of csv.
 Decision Tree algorithm code is included in the separate folder of "DecisionTree Files".
